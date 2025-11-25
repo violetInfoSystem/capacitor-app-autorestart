@@ -1,6 +1,6 @@
 {
   "name": "@violetinfosystems/capacitor-app-autorestart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capacitor plugin to auto-restart the app on Android if killed.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
